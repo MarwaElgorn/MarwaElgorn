@@ -26,12 +26,8 @@ ITI Graduate.
 ---
 ### Contact
 <p>
-  <a href="mailto:marwaelgorn@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail,linkedin" />
-  </a>
-</p>
-
-<p>
+  <a href="mailto:marwaelgorn@gmail.com">Gmail</a> ·
+  <a href="https://www.linkedin.com/in/marwa-elgorn/">LinkedIn</a> ·
   <a href="https://www.upwork.com/freelancers/~014175ea913f0163e3">Upwork</a> ·
   <a href="https://khamsat.com/user/marwaelgorn">Khamsat</a> ·
   <a href="https://mostaql.com/u/marwaelgorn">Mostaql</a>
