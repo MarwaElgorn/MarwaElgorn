@@ -17,7 +17,20 @@ ITI Graduate.
 ---
 
 ### Tech Stack
-HTML • CSS • JavaScript • React • Next.js • Supabase • REST APIs • Git
+<p>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=supabase" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+### Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,supabase,git,github" />
+</p>
 
 ---
 
