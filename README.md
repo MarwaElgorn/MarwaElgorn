@@ -18,15 +18,9 @@ ITI Graduate.
 
 ### Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img src="https://skillicons.dev/icons?i=supabase" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,supabase,git,github&perline=8" />
 </p>
+
 
 
 ---
