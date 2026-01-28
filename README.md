@@ -26,9 +26,21 @@ ITI Graduate.
 ---
 
 ### Contact
-Email  
-marwaelgorn@gmail.com  
-
-LinkedIn  
-https://www.linkedin.com/in/marwa-elgorn/
+<p>
+  <a href="mailto:marwaelgorn@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/marwa-elgorn/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~014175ea913f0163e3" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/000000/external-upwork-a-global-freelancing-platform-logo-bold-tal-revivo.png" />
+  </a>
+  <a href="https://khamsat.com/user/marwaelgorn" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/000000/briefcase.png" />
+  </a>
+  <a href="https://mostaql.com/u/marwaelgorn" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/000000/domain.png" />
+  </a>
+</p>
 
